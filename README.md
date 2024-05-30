@@ -20,7 +20,7 @@ Additionally, a testing script is included to simulate multiple client requests.
 - [License](#license)
 
 ## About the Project
-This project was originally based on a mandatory assignment in Networking and Cloud Computing at OsloMet. 
+This project was originally based on a mandatory assignment in [Networking and Cloud Computing](https://student.oslomet.no/studier/-/studieinfo/emne/DATA2410/2022/H%C3%98ST) at OsloMet. 
 However, it goes beyond the initial requirements, adding features such as the ability to transfer images and the creation of a test script. 
 The goal was to implement a basic HTTP server and client to handle file requests and responses.
 
